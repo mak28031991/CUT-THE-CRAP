@@ -8,9 +8,9 @@
 	<session-factory>
 		<property name="myeclipse.connection.profile">org.postgresql.Driver</property>
 		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
-		<property name="hibernate.connection.password">4a626021-e55a</property>
-		<property name="hibernate.connection.username">postgres</property>
-		<property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/tal</property>
+		<property name="hibernate.connection.password">27b8704938bf06834109a5b434e22e10c367ee26ea5089a787bcde63c22de144</property>
+		<property name="hibernate.connection.username">smrhfsqzurjnlf</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://ec2-54-235-244-185.compute-1.amazonaws.com:5432/danbta0fh8pcd9</property>
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
 		<property name="hibernate.show_sql">true</property>
 		<property name="hibernate.cache.use_second_level_cache">false</property>
